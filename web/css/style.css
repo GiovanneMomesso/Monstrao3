@@ -14,7 +14,7 @@ input, textarea, select { font-family: "Trebuchet MS", Arial, sans-serif; font-s
 a img { border:0; }
 
 /* links em um geral */
-a { color:#CC2B00; text-decoration: underline; cursor:pointer; }
+a { color:#000000; text-decoration: underline; cursor:pointer; }
 a:hover { color:#666; text-decoration: none; }
 
 .left, .alignleft { float:left; display:inline; }
@@ -37,16 +37,16 @@ h1#logo a{ display:block; height:64px; text-indent: -4000px; background:url(imag
 
 .shell { width:1000px; margin:0 auto; padding:10px; background:#fff; }
 
-#header { height:64px; background:url(images/header.gif); position:relative;}
+#header { height:64px; background:url(images/header.gif); position:relative;} //header grey
 
 #navigation { float:right; white-space:nowrap; }
 #navigation ul{ list-style-type: none; height:64px; font-weight: bold; float:left;}
 #navigation ul li{ float:left; display:inline; }
 #navigation ul li a{ float:left; height:64px; line-height:64px; text-decoration: none; color:#fff; padding:0 15px;}
 
-#navigation ul li a:hover{ background:#fff; color:#CC2B00; }
+#navigation ul li a:hover{ background:#fff; color:#000000; }
 
-#cart { float:right; width:160px; top:0; right:0; height:51px; background: #CC2B00; color:#fff; padding:13px 10px 0 10px; white-space:nowrap; line-height:20px;}
+#cart { float:right; width:160px; top:0; right:0; height:51px; background: #000000; color:#fff; padding:13px 10px 0 10px; white-space:nowrap; line-height:20px;}
 a.cart-link { color:#fff; background:url(images/cart-link.gif) no-repeat 0 0; padding:0 0 0 32px; text-decoration: none;}
 a.cart-link:hover { text-decoration: underline;}
 
@@ -72,7 +72,7 @@ a.bul { background:url(images/bul.gif) no-repeat 0 center; padding-left:10px;}
 .search select.field { width:212px; }
 .search select.small-field { width:50px; }
 
-.search-submit { width:150px; background:#CC2B00; border:0; text-decoration: none; color:#fff; text-align: center; height:27px; display:block; line-height:26px; cursor:pointer; margin:12px 0 10px 0;}
+.search-submit { width:150px; background:#000000; border:0; text-decoration: none; color:#fff; text-align: center; height:27px; display:block; line-height:26px; cursor:pointer; margin:12px 0 10px 0;}
 
 .product_info ul { list-style-type: none; }
 
@@ -85,7 +85,7 @@ a.bul { background:url(images/bul.gif) no-repeat 0 center; padding-left:10px;}
 .categories ul li{ border-bottom:dashed 1px #ccc; padding:5px 0;}
 .categories ul li.last{ border-bottom:0; padding-bottom:0;}
 .categories ul li a{ color:#5f5f5f; text-decoration: none; background:url(images/cat.gif) no-repeat 0 4px; padding-left:17px;}
-.categories ul li a:hover{ color:#CC2B00; }
+.categories ul li a:hover{ color:#000000; }
 
 .product_info ul { list-style-type: none; }
 
@@ -96,7 +96,7 @@ a.bul { background:url(images/bul.gif) no-repeat 0 center; padding-left:10px;}
 #slider-holder ul li{ width:720px; height:252px; position:relative; overflow:hidden; float:left; }
 
 #slider-nav { position:absolute; top:231px; left:644px; z-index:2;}
-#slider-nav a{ font-size:0; line-height:0; text-indent: -4000px; width:10px; height:10px; border:solid 1px #CC2B00; background:#CC2B00; float:left; margin-right:5px; }
+#slider-nav a{ font-size:0; line-height:0; text-indent: -4000px; width:10px; height:10px; border:solid 1px #000000; background:#000000; float:left; margin-right:5px; }
 #slider-nav a:hover,
 #slider-nav a.active { background:#fff;}
 

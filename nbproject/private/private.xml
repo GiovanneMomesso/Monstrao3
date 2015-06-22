@@ -5,5 +5,12 @@
         <group>
             <file>file:/C:/Users/Giovanne/Documents/NetBeansProjects/Monstrao3/web/index.html</file>
         </group>
+        <group name="DAC">
+            <file>file:/C:/Users/GUENO/Documents/NetBeansProjects/Monstrao3/web/layout/head.html</file>
+            <file>file:/C:/Users/GUENO/Documents/NetBeansProjects/Monstrao3/web/index.jsp</file>
+            <file>file:/C:/Users/GUENO/Documents/NetBeansProjects/Monstrao3/web/layout/header.html</file>
+            <file>file:/C:/Users/GUENO/Documents/NetBeansProjects/Monstrao3/web/css/style.css</file>
+            <file>file:/C:/Users/GUENO/Documents/NetBeansProjects/Monstrao3/web/index.html</file>
+        </group>
     </open-files>
 </project-private>
