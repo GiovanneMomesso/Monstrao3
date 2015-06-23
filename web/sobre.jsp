@@ -32,9 +32,9 @@
 			<div class="none">
 				<h1>Quem somos</h1>
                                 <br/><br/>
-                                <p>A Monstrão Suplementos é uma empresa de comercialização de suplementos alimentares que possui como objetivo melhorar a qualidade de vida de seus consumidores. Temos um grande comprometimento com a escolha dos produtos que serão vendidos. Trabalhamos apenas com produtos de qualidade assegurada. Acreditamos que sempre devemos ir além das expectativas de nossos clientes. Portanto, estamos sempre dispostos a auxiliar em qualquer tipo de dúvida e possuímos profissionais experientes para atendermos com eficiência e agilidade.</p>
+                                <p>A equipe GameOn é composta por 3 sócios da área de Análise e Desenvolvimento de Sistemas. Tudo começou pela paixao pelos 3 por jogos e essa paixao fez com que abrissem uma rede online de compras dos mesmos. Aqui você consegue percorrer livremente por entre as páginas, ver informações dos jogos desejados e adicioná-los a seu carrinho de compra. Basta se cadastrar e desfrutar. Não deixe de, no ato de inscrição, preencher a oção 'Desejo receber noticias promocionais' para ficar sempre por dentro do melhor que temos a oferecer.</p>
                                 <br/><br/>
-                                <img src="http://www.criarbrasil.org.br/uploads/imagem/Boletim%20agosto%20-%2014/bodyNewFitness.png" width="700px" height="400px" ></img>
+                                <img src="http://4.bp.blogspot.com/-xWEsaqnAva8/UsJjniG3xLI/AAAAAAAAHBk/zt36Q8HWKbo/s1600/games.png" width="700px" height="400px" ></img>
 			</div>
 			<!-- End Who -->
 			
