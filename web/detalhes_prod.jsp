@@ -56,7 +56,7 @@
                         
 			<h1>${produto.nome}</h1>&nbsp;&nbsp;
 			<div class="prod_ind">
-				<img src="${produto.img}" alt="" />
+                            <img src="${produto.img}" alt="" />
 			</div>
 			<div class="product_info">
 			<ul class="none"><br/>		
