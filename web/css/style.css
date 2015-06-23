@@ -140,7 +140,7 @@ h3.ico4 { background-image:url(images/ico4.gif);}
 table.estilo1 {border-collapse:collapse; border: solid #000; width:100%; text-align: center;}
 table.estilo2 {border-collapse:collapse; border: solid #000; width:60%; text-align: center; }
 table.estilo3 {border-collapse:collapse; border: solid #000; width:45%; text-align: center;}
-th.estilo1 {border:1px solid #000; background-color:#CC2B00; color:white; height:40px; text-align: center; }
+th.estilo1 {border:1px solid #000; background-color:#000000; color:white; height:40px; text-align: center; }
 td.estilo1 {border:1px solid #000; height:30px; text-align: center; padding: 7px }
 tr.estilo1 {border:1px solid #000; height:30px; text-align: center;}
 td.ped { padding: 0px 3px 0px 23px};

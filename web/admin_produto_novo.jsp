@@ -60,11 +60,12 @@
                                 </tr>
                                 <tr>
                                     <td for="imagem" >*Imagem: <br></td>
-                                    <td><input type="text" class="field g" name="campoImagem" id="campoImagem" data-required="true"/></td>
+                                    <td><input type="text" class="field g" name="campoImagem" id="campoImagem" data-required="true" /></td>
                                 </tr>
                                  <tr>
                                       <td for="promo" >Produto em promoção</td>
-                                       <td><input type="checkbox" class="field m " name="promo" value="s" id="promo" cols="2" data-required="true" /></td>
+                                       <td><input type="checkbox" class="field m " name="promo" value="s" id="promo" cols="2" data-required="true" />
+                                         </td>
                                  </tr>
                             </table>
                             <br />
