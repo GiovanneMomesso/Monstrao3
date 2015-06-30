@@ -51,6 +51,10 @@
                                     <td><input type="text" class="field p" name="campoValor" id="campoValor" data-required="true"/></td>
                                 </tr>
                                 <tr>
+                                    <td for="valor" >Estoque:</td>
+                                    <td><input type="text" class="field p" name="campoEstoque" id="campoEstoque" data-required="true"/></td>
+                                </tr>
+                                <tr>
                                     <td for="desc_basica">Gênero:</td>
                                     <td><input type="text" class="field p" name="campoDescricaoBasic" id="campoDescricaoBasic" cols="85" rows="2" data-required="true"></textarea></td>
                                 </tr>
