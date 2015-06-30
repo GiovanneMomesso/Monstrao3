@@ -8,10 +8,6 @@ package entity;
 
 import java.io.Serializable;
 
-/**
- *
- * @author Tiago
- */
 public class Usuario implements Serializable {
     private String nome;
     private String login;

@@ -21,10 +21,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Rafael Kozar
- */
 @WebServlet(name = "ControladoraProduto", urlPatterns = {"/ControladoraProduto"})
 public class ControladoraProduto extends HttpServlet {
 

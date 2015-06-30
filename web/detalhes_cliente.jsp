@@ -1,9 +1,3 @@
-<%-- 
-    Document   : detalhes_cliente
-    Created on : 24/04/2014, 23:39:22
-    Author     : Tiago
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <jsp:useBean id="cliDao" class="dao.ClienteDAO"/>
 <!DOCTYPE html>

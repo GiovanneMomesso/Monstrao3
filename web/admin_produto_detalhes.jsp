@@ -1,10 +1,3 @@
-<%-- 
-    Document   : admin_produto_detalhes
-    Created on : 24/04/2014, 15:54:36
-    Author     : Rafael Kozar
---%>
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>

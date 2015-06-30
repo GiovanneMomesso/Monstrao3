@@ -10,10 +10,6 @@ import entity.Usuario;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 
-/**
- *
- * @author Tiago
- */
 public class UsuarioDAO {
     private Connection connection;
     

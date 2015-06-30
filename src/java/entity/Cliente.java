@@ -12,10 +12,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Tiago
- */
 public class Cliente extends Usuario implements Serializable{
     private String endereco;
     private String cpf;

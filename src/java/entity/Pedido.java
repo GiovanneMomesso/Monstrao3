@@ -9,10 +9,6 @@ package entity;
 import java.sql.Date;
 import java.util.List;
 
-/**
- *
- * @author Tiago
- */
 public class Pedido {
     
     public int idPedido;

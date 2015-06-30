@@ -6,10 +6,6 @@
 
 package entity;
 
-/**
- *
- * @author Paulinha
- */
 public class Categoria {
     private String nome;
     private int idCategoria;

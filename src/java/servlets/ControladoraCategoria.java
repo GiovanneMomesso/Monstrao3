@@ -20,10 +20,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author Paulinha
- */
 @WebServlet(name = "ControladoraCategoria", urlPatterns = {"/ControladoraCategoria"})
 public class ControladoraCategoria extends HttpServlet {
 

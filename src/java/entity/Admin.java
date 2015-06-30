@@ -6,10 +6,6 @@
 
 package entity;
 
-/**
- *
- * @author Tiago
- */
 public class Admin extends Usuario{
     
 }

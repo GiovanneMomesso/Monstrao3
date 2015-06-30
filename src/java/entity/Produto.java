@@ -6,10 +6,6 @@
 
 package entity;
 
-/**
- *
- * @author Rafael Kozar
- */
 public class Produto {
     public String nome;
     private String categoria;

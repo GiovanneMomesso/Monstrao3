@@ -10,10 +10,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-/**
- *
- * @author Rafael Kozar
- */
 public class CarrinhoDAO {
 
     private Connection connection;
